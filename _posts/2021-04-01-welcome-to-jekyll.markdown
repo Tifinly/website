@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Tifinly Website peeeeps!"
 date:   2021-04-01 23:23:22 -0400
 categories: jekyll update
 ---
