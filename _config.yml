@@ -2,12 +2,12 @@
 title: Tifinly
 email: lostguid.1@gmail.com
 description: Moms food at your finger tips.
-baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tifinly.com" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 2
 
 # Misc settings
 featured-image-source:
@@ -15,14 +15,14 @@ featured-image-source:
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+# github_url:
+# gitlab_url: https://gitlab.com/u/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/tifinly
 pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+# slack_url:
+twitter_url: https://twitter.com/tifinly
 
 # Build settings
 markdown: kramdown
